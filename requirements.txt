@@ -1,0 +1,5 @@
+aiohttp
+scikit-learn
+requests
+beautifulsoup4
+colorama
