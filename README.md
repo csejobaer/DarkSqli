@@ -128,7 +128,7 @@ MIT License
 ## Author
 
 DarkSqlinjection Team – Advanced Web Vulnerability Scanner Project
-GitHub: https://github.com/csejobaer/XScann-2.0
+GitHub: https://github.com/csejobaer/DarkSqli
 
 # 📜 License
 
