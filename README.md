@@ -125,8 +125,11 @@ Open issues or pull requests for:
 MIT License
 
 ---
+## Author
 
-📌 Disclaimer
+DarkSqlinjection Team – Advanced Web Vulnerability Scanner Project
+GitHub: https://github.com/csejobaer/XScann-2.0
 
-This tool is for educational and authorized security testing only.
-The authors are not responsible for any misuse of this software.
+# 📜 License
+
+This project is for **educational and authorized security testing purposes only**.
